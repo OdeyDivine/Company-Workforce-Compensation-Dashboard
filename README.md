@@ -1,2 +1,2 @@
 # Company-Workforce-Compensation-Dashboard
-Workforce and Compensation Overview – Global Tech Solutions
+As a data analyst at a global tech solutions company, I presented our leadership with a dynamic dashboard summarizing our 30-member workforce from six countries, which revealed several surprising trends. The average employee salary stood at $96,711, with our total salary cost reaching $2,901,335, and team members bringing an average of 8.13 years’ experience to the table. Berlin emerged as the city with the highest total compensation outlay, while Operations boasted the most seasoned employees, averaging 13 years of experience; this helped guide strategic decisions on hiring and resource allocation to maintain our competitive global edge.
